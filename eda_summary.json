@@ -1,0 +1,104 @@
+{
+  "total_messages": 100,
+  "unique_users": 10,
+  "missing_user": 0,
+  "missing_message": 0,
+  "bad_timestamps": 0,
+  "messages_with_numbers": 17,
+  "messages_with_relative_time": 13,
+  "food_related_messages": 18,
+  "top_users": {
+    "Sophia Al-Farsi": 16,
+    "Fatima El-Tahir": 15,
+    "Hans M\u00fcller": 11,
+    "Layla Kawaguchi": 10,
+    "Lily O'Sullivan": 10,
+    "Vikram Desai": 10,
+    "Thiago Monteiro": 8,
+    "Armand Dupont": 8,
+    "Lorenzo Cavalli": 7,
+    "Amina Van Den Berg": 5
+  },
+  "top_words": [
+    [
+      "for",
+      59
+    ],
+    [
+      "my",
+      50
+    ],
+    [
+      "the",
+      50
+    ],
+    [
+      "a",
+      46
+    ],
+    [
+      "i",
+      33
+    ],
+    [
+      "you",
+      29
+    ],
+    [
+      "in",
+      29
+    ],
+    [
+      "to",
+      22
+    ],
+    [
+      "please",
+      19
+    ],
+    [
+      "at",
+      18
+    ],
+    [
+      "next",
+      14
+    ],
+    [
+      "on",
+      13
+    ],
+    [
+      "with",
+      12
+    ],
+    [
+      "can",
+      11
+    ],
+    [
+      "could",
+      11
+    ],
+    [
+      "this",
+      9
+    ],
+    [
+      "need",
+      9
+    ],
+    [
+      "number",
+      9
+    ],
+    [
+      "book",
+      8
+    ],
+    [
+      "update",
+      8
+    ]
+  ]
+}
